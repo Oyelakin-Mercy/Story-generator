@@ -4,4 +4,4 @@ I created a simple JavaScript web app that generates a random story when the "Ge
 <p>It converts the default US weight and temperature quantities and units in the story into UK equivalents if the UK radio button is checked before the generate button is pressed.
 and will generate another random silly story if you press the button again (and again...)
 
-[View the project here](https://oyelakin-mercy.github.io/Story-generator/)
+[View the project here](https://oyelakin-mercy.github.io/Story-generator/).
